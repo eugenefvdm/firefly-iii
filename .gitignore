@@ -18,3 +18,6 @@ resources/assets/v1/build
 # ignore v2 build files
 resources/assets/v2/node_modules
 resources/assets/v2/build
+
+# Eugene
+.idea
